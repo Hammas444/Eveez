@@ -7,8 +7,8 @@ import Footer from "@/components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Next-Gen EV | The Future Unbound",
-  description: "Experience zero emissions without compromise. High-performance electric mobility.",
+  title: "Eveez",
+  description: "Lot of electric vehicles.",
 };
 
 export default function RootLayout({

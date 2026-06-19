@@ -1,10 +1,6 @@
 import React from 'react';
 import CarShowcaseGrid from '@/components/CarShowcaseGrid';
 
-export const metadata = {
-  title: 'Models | VoltDrive Collection',
-  description: 'Explore our 2026 fleet of high-performance electric vehicles.',
-};
 
 export default function ModelsPage() {
   return (
